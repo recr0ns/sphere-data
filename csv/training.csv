@@ -7,3 +7,5 @@ date,time,type,minutes,kcal,source,details
 2026-08-19,18:27,WALKING,26,,fitbit,
 2026-08-19,20:30,WALKING,31,,fitbit,
 2026-08-20,19:37,WALKING,55,,fitbit,
+2026-08-20,22:00,CORE_TRAINING,30,,fitbit,
+2026-08-20,23:00,CORE_TRAINING,30,,fitbit,
