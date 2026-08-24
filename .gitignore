@@ -1,2 +1,6 @@
 .DS_Store
+metrics.sqlite
+metrics.sqlite-shm
+metrics.sqlite-wal
 node_modules/
+tmp/
