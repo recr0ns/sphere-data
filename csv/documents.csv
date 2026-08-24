@@ -1,2 +1,5 @@
 slug,title,expires,warn_days,file,updated
+passport,Паспорт РФ,,,passport.jpg,2026-08-24
 passport-rf,Паспорт РФ,2036-05-12,90,,2026-08-24
+snils,СНИЛС,,,snils.jpg,2026-08-24
+zagranpasport,Загранпаспорт,2034-04-26,90,zagranpasport.jpg,2026-08-24
