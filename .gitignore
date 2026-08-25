@@ -4,3 +4,4 @@ metrics.sqlite-shm
 metrics.sqlite-wal
 node_modules/
 tmp/
+cache/
