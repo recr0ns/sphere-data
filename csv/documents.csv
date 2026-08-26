@@ -1,5 +1,5 @@
-slug,title,category,expires,warn_days,file,updated
-dema-plecho-rekomendacii-2026-08-26,ДЭМА — рекомендации по плечу (капсулит),медицина,,,dema-plecho-rekomendacii-2026-08-26.jpg,2026-08-26
-passport-rf,Паспорт РФ,личные,2036-05-12,90,passport-rf.jpg,2026-08-26
-snils,СНИЛС,личные,,,snils.jpg,2026-08-26
-zagranpasport,Загранпаспорт,личные,2034-04-26,90,zagranpasport.jpg,2026-08-26
+slug,title,category,illness,expires,warn_days,file,updated
+dema-plecho-rekomendacii-2026-08-26,ДЭМА — рекомендации по плечу (капсулит),медицина,Адгезивный капсулит плеча (M75.0),,,dema-plecho-rekomendacii-2026-08-26.jpg,2026-08-26
+passport-rf,Паспорт РФ,личные,,2036-05-12,90,passport-rf.jpg,2026-08-26
+snils,СНИЛС,личные,,,,snils.jpg,2026-08-26
+zagranpasport,Загранпаспорт,личные,,2034-04-26,90,zagranpasport.jpg,2026-08-26
