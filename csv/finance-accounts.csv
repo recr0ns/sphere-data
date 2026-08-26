@@ -1,0 +1,12 @@
+id,name,bank,type,currency,rate_pct,until,note
+tinkoff-broker,Брокерский Т-Банк,Т-Банк,брокерский,RUB,,,
+ff,Брокерский Freedom,Freedom Finance,брокерский,RUB,,,
+ff-usd,Freedom USD,Freedom Finance,счёт,USD,,,
+t-bank-debit,Т-Банк дебетовый,Т-Банк,счёт,RUB,,,
+t-bank-nakopitelnyi,Т-Банк накопительный,Т-Банк,счёт,RUB,,,
+t-bank-kreditka,Т-Банк кредитка,Т-Банк,кредитка,RUB,,,лимит 670 000 ₽
+mts,МТС Банк счёт,МТС Банк,счёт,RUB,,,
+alfa,Альфа счёт,Альфа-Банк,счёт,RUB,,,
+raif,Райффайзен счёт,Райффайзен,счёт,RUB,,,
+cash-rub,Наличные ₽,,наличные,RUB,,,
+cash-usd,Наличные $,,наличные,USD,,,
