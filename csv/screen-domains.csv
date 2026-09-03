@@ -10,10 +10,10 @@ date,domain,minutes
 2026-09-02,disk.yandex.ru,1.4
 2026-09-02,ru.pinterest.com,0.6
 2026-09-02,127.0.0.1,0.5
-2026-09-03,youtube.com,2.7
-2026-09-03,etl.tishkin.space,2.6
-2026-09-03,saga.tishkin.space,2.4
-2026-09-03,localhost,1.2
+2026-09-03,etl.tishkin.space,3.5
+2026-09-03,saga.tishkin.space,3.3
+2026-09-03,youtube.com,3.3
+2026-09-03,localhost,2.3
+2026-09-03,gitlab.reakt.space,1.5
 2026-09-03,google.com,1.2
-2026-09-03,gitlab.reakt.space,1.1
 2026-09-03,127.0.0.1,0.6
