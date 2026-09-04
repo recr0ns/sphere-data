@@ -1,0 +1,3 @@
+id,title,kind,unit,weekly_sessions,weekly_minutes,total_minutes,deadline,source,status,created,note
+zal,Зал,тренировка,,,,,,силовая,active,2026-09-04,силовые в зале — по дневнику тренировок
+skaidaiv,Скайдайв,тренировка,,,,,,"аэротруба,прыжки,скайдайв",active,2026-09-04,труба и прыжки — по дневнику тренировок
