@@ -1,5 +1,5 @@
-id,title,kind,unit,weekly_sessions,weekly_minutes,weekly_amount,total_minutes,deadline,source,keywords,status,created,note
-pdd,ПДД,учёба,тест,7,210,,,,,пдд,active,2026-09-04,"теория к экзамену на права; ежедневно по 30 минут, срок пока не назначен"
-pryzhki,Прыжки,тренировка,прыжок,,,,,,skydive:прыжки,"прыж,goose tribe",active,2026-09-04,
-aerotruba,Аэротруба,тренировка,,,,,,,skydive:труба,"труб,vacuum",active,2026-09-04,
-zal,Зал,тренировка,,,,,,,силовая,"gym,зал",active,2026-09-04,
+id,title,kind,unit,weekly_sessions,weekly_minutes,weekly_amount,total_minutes,deadline,source,keywords,baseline,baseline_note,status,created,note
+pdd,ПДД,учёба,тест,7,210,,,,,пдд,,,active,2026-09-04,"теория к экзамену на права; ежедневно по 30 минут, срок пока не назначен"
+pryzhki,Прыжки,тренировка,прыжок,,,,,,skydive:прыжки,"прыж,goose tribe",,,active,2026-09-04,
+zal,Зал,тренировка,,,,,,,силовая,"gym,зал",,,active,2026-09-04,
+aerotruba,Аэротруба,тренировка,,,,,,,skydive:труба,"труб,vacuum",5520,"оценка налёта до января 2024, всего около 120 ч на сентябрь 2026",active,2026-09-04,
