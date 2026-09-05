@@ -1,5 +1,5 @@
-id,title,kind,unit,weekly_sessions,weekly_minutes,weekly_amount,total_minutes,deadline,source,status,created,note
-zal,Зал,тренировка,,,,,,,силовая,active,2026-09-04,силовые в зале — по дневнику тренировок
-aerotruba,Аэротруба,тренировка,,,,,,,skydive:труба,active,2026-09-04,"налёт в трубе минутами — по дневникам, отдельно не пишется"
-pryzhki,Прыжки,тренировка,прыжок,,,,,,skydive:прыжки,active,2026-09-04,прыжки штуками — из журнала скайдайва
-pdd,ПДД,учёба,тест,7,210,,,,,active,2026-09-04,"теория к экзамену на права; ежедневно по 30 минут, срок пока не назначен"
+id,title,kind,unit,weekly_sessions,weekly_minutes,weekly_amount,total_minutes,deadline,source,keywords,status,created,note
+aerotruba,Аэротруба,тренировка,,,,,,,skydive:труба,"труб,vacuum",active,2026-09-04,"налёт в трубе минутами — по дневникам, отдельно не пишется"
+pryzhki,Прыжки,тренировка,прыжок,,,,,,skydive:прыжки,"прыж,goose tribe",active,2026-09-04,прыжки штуками — из журнала скайдайва
+zal,Зал,тренировка,,,,,,,силовая,"gym,зал",active,2026-09-04,силовые в зале — по дневнику тренировок
+pdd,ПДД,учёба,тест,7,210,,,,,пдд,active,2026-09-04,"теория к экзамену на права; ежедневно по 30 минут, срок пока не назначен"
