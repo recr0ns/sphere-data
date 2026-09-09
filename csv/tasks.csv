@@ -1,2 +1,3 @@
-id,title,due,every_days,repeat_from,status,last_done,keywords,created,note
-podstrichsya,Подстричься,2026-09-16,21,done,open,2026-08-26,"стриж,💇,oldboy,barber",2026-09-08,обычно OldBoy; сдвиг на 4–5 недель не критичен
+id,title,due,every_days,repeat_from,status,last_done,keywords,on_done,created,note
+podstrichsya,Подстричься,2026-09-16,21,done,open,2026-08-26,"стриж,💇,oldboy,barber",,2026-09-08,обычно OldBoy; сдвиг на 4–5 недель не критичен
+dutasterid,Дутастерид,2026-09-10,1,due,open,,дутастерид,medication:Дутастерид||Себорейный дерматит,2026-09-09,"ежедневно, при себорейном дерматите"
