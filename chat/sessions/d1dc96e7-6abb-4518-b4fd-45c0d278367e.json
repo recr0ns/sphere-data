@@ -1,0 +1,19 @@
+{
+  "title": "Kakoy segodnya den i chislo?",
+  "surface": "web",
+  "created": "2026-09-13T09:37:43.140Z",
+  "updated": "2026-09-13T09:37:43.140Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Kakoy segodnya den i chislo?",
+      "ts": "2026-09-13T09:37:43.140Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Сегодня воскресенье, 13 сентября 2026 года.",
+      "model": "sonnet",
+      "ts": "2026-09-13T09:37:43.140Z"
+    }
+  ]
+}
