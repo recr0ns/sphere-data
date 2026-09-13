@@ -1,6 +1,6 @@
 id,title,due,every_days,repeat_from,repeat_rule,status,last_done,keywords,on_done,created,note
 podstrichsya,Подстричься,2026-09-16,21,done,,open,2026-08-26,"стриж,💇,oldboy,barber",,2026-09-08,обычно OldBoy; сдвиг на 4–5 недель не критичен
-dutasterid,Дутастерид,2026-09-13,1,due,,open,2026-09-12,дутастерид,medication:Дутастерид|0.5 мг|Себорейный дерматит,2026-09-09,"ежедневно 0.5 мг, при себорейном дерматите"
+dutasterid,Дутастерид,2026-09-14,1,due,,open,2026-09-13,дутастерид,medication:Дутастерид|0.5 мг|Себорейный дерматит,2026-09-09,"ежедневно 0.5 мг, при себорейном дерматите"
 zabrat-dostavku-dutasterida-iz-apteki,Забрать доставку Дутастерида из аптеки,2026-09-14,,done,,done,2026-09-10,"дутастерид,аптек",,2026-09-09,"заказ № UT-261806119, доставка с выдачей в аптеке"
 oformit-vizu-b1-v-indoneziyu,Оформить визу B1 в Индонезию,2026-09-16,,done,,open,,"виза,evisa,индонез",,2026-09-09,"evisa.imigrasi.go.id, 30 $; до вылета 17.09 в 14:40 (Москва – Денпасар, SU 296)"
 zapolnit-kartu-pribytiya-all-indonesia,Заполнить карту прибытия All Indonesia,2026-09-17,,done,,open,,"all indonesia,карта прибытия,allindonesia",,2026-09-09,"allindonesia.imigrasi.go.id — в пределах 72 часов до прилёта: прилёт 18.09 в 08:05 по Бали, окно открывается с 15.09 ~03:00 МСК; сделать до вылета 17.09 14:40"
