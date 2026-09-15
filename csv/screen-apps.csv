@@ -106,12 +106,13 @@ date,device,app,minutes
 2026-09-14,mac,Preview,1.4
 2026-09-14,mac,Happ,1.4
 2026-09-15,android,Clock,6.7
-2026-09-15,mac,Google Chrome,131.6
-2026-09-15,mac,Claude,127.4
-2026-09-15,mac,Yandex Telemost,63.5
+2026-09-15,mac,Google Chrome,150.5
+2026-09-15,mac,Claude,136
+2026-09-15,mac,Yandex Telemost,64
 2026-09-15,mac,Discord,38.6
-2026-09-15,mac,Telegram,34.6
-2026-09-15,mac,Code,16.1
-2026-09-15,mac,Warp,1.7
+2026-09-15,mac,Telegram,36.5
+2026-09-15,mac,Code,16.6
+2026-09-15,mac,Warp,2.1
 2026-09-15,mac,Preview,1.6
+2026-09-15,mac,TextEdit,0.6
 2026-09-15,mac,Finder,0.5
