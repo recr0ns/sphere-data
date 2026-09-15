@@ -13,5 +13,11 @@ date,device,start,app,package,duration_sec
 2026-09-14,android,00:51:24,Settings,com.android.settings,4
 2026-09-14,android,00:51:31,Clock,com.google.android.deskclock,3
 2026-09-14,android,00:51:37,Settings,com.android.settings,4
+2026-09-14,android,09:38:29,Permission controller,com.google.android.permissioncontroller,134
+2026-09-14,android,09:43:56,Permission controller,com.google.android.permissioncontroller,14
+2026-09-14,android,10:00:37,Settings,com.android.settings,4
+2026-09-14,android,10:00:44,Clock,com.google.android.deskclock,3
+2026-09-14,android,10:00:50,Settings,com.android.settings,4
 2026-09-14,android,10:51:34,Permission controller,com.google.android.permissioncontroller,7
 2026-09-14,android,15:16:35,Permission controller,com.google.android.permissioncontroller,7
+2026-09-15,android,00:25:48,Permission controller,com.google.android.permissioncontroller,7
