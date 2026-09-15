@@ -22,3 +22,4 @@ date,device,start,app,package,duration_sec
 2026-09-14,android,15:16:35,Permission controller,com.google.android.permissioncontroller,7
 2026-09-15,android,00:25:48,Permission controller,com.google.android.permissioncontroller,7
 2026-09-15,android,12:51:07,Chrome,com.android.chrome,3
+2026-09-15,android,12:56:17,Chrome,com.android.chrome,18
