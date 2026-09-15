@@ -1,7 +1,9 @@
 exercise,muscles
 жим ногами,"quadriceps,gluteal,hamstring"
+жим ногами горизонтальный в блочном тренажере,"quadriceps,gluteal,hamstring,adductor"
 жим ногами горизонтальный сидя в блочном тренажере,"quadriceps,gluteal,hamstring,adductor"
 маятниковый присед,"quadriceps,hamstring,gluteal"
+обратный присед с упором,"quadriceps,gluteal,hamstring,adductor"
 отведение бедра сидя в блочном тренажере,"gluteal,hamstring"
 подъём штанги на бицепс,"biceps,forearm"
 разгибание ног,quadriceps
@@ -10,4 +12,5 @@ exercise,muscles
 трицепс в блочном тренажере,triceps
 тяга верхнего блока на трицепс,triceps
 тяга к животу на горизонтальном блоке,"upper-back,back-deltoids,biceps,forearm,trapezius"
+экстензия на наклонной скамье (акцент на ягодицы),"gluteal,hamstring"
 ягодичный мост в рычажном тренажере,"gluteal,hamstring"
