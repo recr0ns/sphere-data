@@ -97,7 +97,7 @@ date,device,app,minutes
 2026-09-14,android,Settings,0.8
 2026-09-14,mac,Google Chrome,145.7
 2026-09-14,mac,Yandex Telemost,71.3
-2026-09-14,mac,Notes,25.7
+2026-09-14,mac,Notes,35.2
 2026-09-14,mac,Telegram,22.1
 2026-09-14,mac,Discord,20.2
 2026-09-14,mac,Claude,12.8
@@ -106,3 +106,4 @@ date,device,app,minutes
 2026-09-14,mac,Preview,1.4
 2026-09-14,mac,Happ,1.4
 2026-09-15,android,Clock,6.6
+2026-09-15,mac,Google Chrome,13.4
