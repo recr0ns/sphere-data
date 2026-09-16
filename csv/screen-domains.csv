@@ -176,11 +176,13 @@ date,device,domain,minutes
 2026-09-15,mac,google.com,0.5
 2026-09-16,mac,localhost,42.1
 2026-09-16,mac,youtube.com,28.6
-2026-09-16,mac,saga.tishkin.space,27
+2026-09-16,mac,saga.tishkin.space,28
+2026-09-16,mac,?,16.4
 2026-09-16,mac,mail.google.com,10.3
-2026-09-16,mac,?,10.2
 2026-09-16,mac,google.com,9.4
+2026-09-16,mac,market.yandex.ru,3.8
 2026-09-16,mac,docs.google.com,3.5
 2026-09-16,mac,typesafe.ai,1.7
 2026-09-16,mac,aeroflot.ru,0.6
 2026-09-16,mac,moscowflow.ru,0.5
+2026-09-16,mac,newtab,0.5
