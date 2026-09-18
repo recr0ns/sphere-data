@@ -123,11 +123,21 @@ date,device,app,minutes
 2026-09-16,mac,Yandex Telemost,12.8
 2026-09-16,mac,Yandex Music,3.9
 2026-09-16,mac,Warp,0.6
-2026-09-17,mac,Google Chrome,27.3
-2026-09-17,mac,Claude,9.9
+2026-09-17,mac,Google Chrome,64.1
+2026-09-17,mac,Claude,36.7
+2026-09-17,mac,Telegram,5.9
 2026-09-17,mac,Steam Helper,4.4
-2026-09-17,mac,Telegram,4.2
+2026-09-17,mac,UserNotificationCenter,4.1
 2026-09-17,mac,Notes,3.6
+2026-09-17,mac,Finder,2.5
 2026-09-17,mac,Books,1.1
 2026-09-17,mac,VLC,0.9
-2026-09-17,mac,Finder,0.6
+2026-09-18,mac,Finder,139.1
+2026-09-18,mac,Music,25.8
+2026-09-18,mac,Google Chrome,17.6
+2026-09-18,mac,Telegram,17.5
+2026-09-18,mac,VLC,11.6
+2026-09-18,mac,Claude,9.3
+2026-09-18,mac,Preview,7.6
+2026-09-18,mac,Calendar,1.9
+2026-09-18,mac,Activity Monitor,1.2
