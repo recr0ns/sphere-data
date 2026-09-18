@@ -197,10 +197,12 @@ date,device,domain,minutes
 2026-09-17,mac,benchlm.ai,1.2
 2026-09-17,mac,google.com,0.8
 2026-09-17,mac,newtab,0.7
-2026-09-18,mac,localhost,6.7
+2026-09-18,mac,localhost,7.1
 2026-09-18,mac,mail.google.com,5.8
+2026-09-18,mac,google.com,4.5
 2026-09-18,mac,paseo.sh,3.8
-2026-09-18,mac,google.com,2
 2026-09-18,mac,saga.tishkin.space,1.7
-2026-09-18,mac,newtab,1.5
+2026-09-18,mac,newtab,1.6
+2026-09-18,mac,gioigroup.com,0.9
 2026-09-18,mac,fast.com,0.6
+2026-09-18,mac,instagram.com,0.6
