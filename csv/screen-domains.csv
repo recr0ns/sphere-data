@@ -216,8 +216,10 @@ date,device,domain,minutes
 2026-09-20,mac,ozon.ru,7
 2026-09-20,mac,market.yandex.ru,3.5
 2026-09-20,mac,etl.tishkin.space,0.7
-2026-09-21,mac,youtube.com,62.6
+2026-09-21,mac,youtube.com,70.4
+2026-09-21,mac,console.typesafe.ai,4.9
 2026-09-21,mac,vc.ru,4
 2026-09-21,mac,localhost,2.9
 2026-09-21,mac,habr.com,1.4
 2026-09-21,mac,google.com,1.2
+2026-09-21,mac,docs.typesafe.ai,0.9
