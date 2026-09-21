@@ -228,6 +228,8 @@ date,device,domain,minutes
 2026-09-21,mac,google.com,1.4
 2026-09-21,mac,docs.typesafe.ai,1.3
 2026-09-21,mac,newtab,1.1
-2026-09-22,mac,localhost,10.9
-2026-09-22,mac,console.typesafe.ai,4.6
-2026-09-22,mac,google.com,0.6
+2026-09-22,mac,localhost,19.8
+2026-09-22,mac,youtube.com,9.5
+2026-09-22,mac,console.typesafe.ai,5.4
+2026-09-22,mac,google.com,0.8
+2026-09-22,mac,mail.google.com,0.7
