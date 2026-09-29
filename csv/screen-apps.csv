@@ -174,6 +174,20 @@ date,device,app,minutes
 2026-09-25,mac,Telegram,19.9
 2026-09-26,mac,Google Chrome,36.1
 2026-09-26,mac,Claude,2.3
+2026-09-28,android,Google Play Store,8.9
+2026-09-28,android,Photos,7.3
+2026-09-28,android,Google Play services,7.2
+2026-09-28,android,Google,6
+2026-09-28,android,Settings,4.4
+2026-09-28,android,Telegram,3.3
+2026-09-28,android,Yandex Go,2.5
+2026-09-28,android,Chrome,2.2
+2026-09-28,android,Camera,1.5
+2026-09-28,android,Gmail,1.4
+2026-09-28,android,Happ,1.2
+2026-09-28,android,Android Setup,1
+2026-09-28,android,Permission controller,0.6
+2026-09-28,android,YouTube Music,0.5
 2026-09-28,mac,Google Chrome,137.5
 2026-09-28,mac,Discord,70.2
 2026-09-28,mac,Telegram,40.3
@@ -182,6 +196,7 @@ date,device,app,minutes
 2026-09-28,mac,Yandex Telemost,4
 2026-09-28,mac,Calendar,2.9
 2026-09-28,mac,Yandex Music,1.2
+2026-09-29,android,Settings,1
 2026-09-29,mac,Google Chrome,13.7
 2026-09-29,mac,Telegram,4.7
 2026-09-29,mac,Claude,3.4

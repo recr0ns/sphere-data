@@ -23,3 +23,104 @@ date,device,start,app,package,duration_sec
 2026-09-15,android,00:25:48,Permission controller,com.google.android.permissioncontroller,7
 2026-09-15,android,12:51:07,Chrome,com.android.chrome,3
 2026-09-15,android,12:56:17,Chrome,com.android.chrome,18
+2026-09-28,android,12:07:15,Google Play services,com.google.android.gms,26
+2026-09-28,android,12:34:27,Google Play services,com.google.android.gms,6
+2026-09-28,android,12:34:42,Settings,com.android.settings,6
+2026-09-28,android,12:35:21,Android Setup,com.google.android.setupwizard,3
+2026-09-28,android,12:40:28,Face Enroll,com.google.android.settings.future.biometrics.faceenroll,7
+2026-09-28,android,12:40:41,Google Play services,com.google.android.gms,66
+2026-09-28,android,12:41:54,Settings,com.android.settings,17
+2026-09-28,android,12:42:15,Personal Safety,com.google.android.apps.safetyhub,4
+2026-09-28,android,12:42:19,Google Play services,com.google.android.gms,7
+2026-09-28,android,12:42:31,Pixel setup,com.google.android.pixel.setupwizard,6
+2026-09-28,android,12:43:16,Google Play services,com.google.android.gms,22
+2026-09-28,android,12:43:56,Google,com.google.android.googlequicksearchbox,9
+2026-09-28,android,12:44:08,Google Play Store,com.android.vending,36
+2026-09-28,android,15:19:41,Permission controller,com.google.android.permissioncontroller,4
+2026-09-28,android,15:19:46,Camera,com.google.android.GoogleCamera,19
+2026-09-28,android,15:20:05,Photos,com.google.android.apps.photos,4
+2026-09-28,android,15:22:34,Happ,com.happproxy,9
+2026-09-28,android,15:22:54,Gmail,com.google.android.gm,45
+2026-09-28,android,15:23:52,Gmail,com.google.android.gm,12
+2026-09-28,android,15:24:05,Happ,com.happproxy,27
+2026-09-28,android,15:24:33,Google,com.google.android.googlequicksearchbox,30
+2026-09-28,android,15:25:04,Happ,com.happproxy,7
+2026-09-28,android,15:25:23,Gmail,com.google.android.gm,8
+2026-09-28,android,15:25:42,Files by Google,com.google.android.apps.nbu.files,4
+2026-09-28,android,15:25:53,Files by Google,com.google.android.apps.nbu.files,6
+2026-09-28,android,15:26:29,Happ,com.happproxy,3
+2026-09-28,android,15:26:32,Chrome,com.android.chrome,17
+2026-09-28,android,15:28:30,Permission controller,com.google.android.permissioncontroller,3
+2026-09-28,android,15:28:33,Pixel Weather,com.google.android.apps.weather,6
+2026-09-28,android,15:28:41,Permission controller,com.google.android.permissioncontroller,3
+2026-09-28,android,15:29:45,Photos,com.google.android.apps.photos,6
+2026-09-28,android,15:29:54,Photos,com.google.android.apps.photos,60
+2026-09-28,android,15:31:46,Google,com.google.android.googlequicksearchbox,13
+2026-09-28,android,15:32:02,Google,com.google.android.googlequicksearchbox,28
+2026-09-28,android,15:33:13,Google Play services,com.google.android.gms,10
+2026-09-28,android,15:33:26,Google Play Store,com.android.vending,64
+2026-09-28,android,15:36:21,Google Wallet,com.google.android.apps.walletnfcrel,7
+2026-09-28,android,15:36:30,Google Play Store,com.android.vending,6
+2026-09-28,android,15:36:37,Happ,com.happproxy,6
+2026-09-28,android,15:36:45,Google Play Store,com.android.vending,16
+2026-09-28,android,15:37:07,Google Play Store,com.android.vending,4
+2026-09-28,android,15:37:11,Happ,com.happproxy,4
+2026-09-28,android,15:37:15,Google Play Store,com.android.vending,29
+2026-09-28,android,15:37:58,Photos,com.google.android.apps.photos,27
+2026-09-28,android,15:38:26,Camera,com.google.android.GoogleCamera,14
+2026-09-28,android,15:39:07,Telegram,org.telegram.messenger,3
+2026-09-28,android,15:39:11,Telegram,org.telegram.messenger,22
+2026-09-28,android,15:39:34,Gmail,com.google.android.gm,4
+2026-09-28,android,15:39:39,Telegram,org.telegram.messenger,4
+2026-09-28,android,15:39:46,Telegram,org.telegram.messenger,15
+2026-09-28,android,15:40:25,Telegram,org.telegram.messenger,40
+2026-09-28,android,15:41:09,Telegram,org.telegram.messenger,41
+2026-09-28,android,15:42:05,Telegram,org.telegram.messenger,12
+2026-09-28,android,15:42:19,Photos,com.google.android.apps.photos,41
+2026-09-28,android,15:43:02,Telegram,org.telegram.messenger,24
+2026-09-28,android,15:43:32,Photos,com.google.android.apps.photos,101
+2026-09-28,android,15:54:39,Google,com.google.android.googlequicksearchbox,5
+2026-09-28,android,15:55:14,Telegram,org.telegram.messenger,5
+2026-09-28,android,15:55:19,Permission controller,com.google.android.permissioncontroller,3
+2026-09-28,android,15:55:22,Telegram,org.telegram.messenger,4
+2026-09-28,android,15:55:29,Photos,com.google.android.apps.photos,12
+2026-09-28,android,15:55:49,Permission controller,com.google.android.permissioncontroller,3
+2026-09-28,android,15:55:53,Google,com.google.android.googlequicksearchbox,6
+2026-09-28,android,15:56:00,Google,com.google.android.googlequicksearchbox,7
+2026-09-28,android,15:56:21,My Pixel,com.google.android.apps.tips,7
+2026-09-28,android,15:56:58,YouTube Music,com.google.android.apps.youtube.music,30
+2026-09-28,android,15:57:32,YouTube,com.google.android.youtube,18
+2026-09-28,android,15:57:52,Camera,com.google.android.GoogleCamera,48
+2026-09-28,android,15:58:40,Photos,com.google.android.apps.photos,23
+2026-09-28,android,15:59:04,Camera,com.google.android.GoogleCamera,5
+2026-09-28,android,16:09:44,Phone,com.google.android.dialer,23
+2026-09-28,android,16:10:09,Chrome,com.android.chrome,14
+2026-09-28,android,16:10:26,Telegram,org.telegram.messenger,12
+2026-09-28,android,16:16:32,Telegram,org.telegram.messenger,3
+2026-09-28,android,16:16:47,Google,com.google.android.googlequicksearchbox,14
+2026-09-28,android,16:17:33,Telegram,org.telegram.messenger,6
+2026-09-28,android,16:17:42,Google,com.google.android.googlequicksearchbox,86
+2026-09-28,android,16:24:13,Google,com.google.android.googlequicksearchbox,8
+2026-09-28,android,16:24:28,Google,com.google.android.googlequicksearchbox,4
+2026-09-28,android,16:24:35,Google,com.google.android.googlequicksearchbox,67
+2026-09-28,android,16:25:53,Google,com.google.android.googlequicksearchbox,36
+2026-09-28,android,16:26:47,Google Play Store,com.android.vending,34
+2026-09-28,android,16:27:38,Google Play Store,com.android.vending,37
+2026-09-28,android,16:28:18,Google Play Store,com.android.vending,79
+2026-09-28,android,16:29:45,Google Play Store,com.android.vending,29
+2026-09-28,android,16:30:28,Google Play Store,com.android.vending,80
+2026-09-28,android,16:34:28,Google Play services,com.google.android.gms,7
+2026-09-28,android,16:34:41,Google Play Store,com.android.vending,80
+2026-09-28,android,16:36:04,Yandex Go,ru.yandex.taxi,6
+2026-09-28,android,16:36:13,Yandex Go,ru.yandex.taxi,109
+2026-09-28,android,16:38:20,Settings,com.android.settings,10
+2026-09-28,android,16:39:23,Settings,com.android.settings,5
+2026-09-28,android,17:00:56,Settings,com.android.settings,9
+2026-09-28,android,17:01:14,Google Play Store,com.android.vending,4
+2026-09-28,android,17:14:25,Google Play services,com.google.android.gms,17
+2026-09-28,android,17:14:47,Google,com.google.android.googlequicksearchbox,4
+2026-09-28,android,17:14:56,Happ,com.happproxy,5
+2026-09-28,android,17:15:04,Yandex Go,ru.yandex.taxi,28
+2026-09-28,android,17:15:34,Google,com.google.android.googlequicksearchbox,26
+2026-09-29,android,09:59:01,Settings,com.android.settings,7
+2026-09-29,android,10:00:10,Settings,com.android.settings,8
