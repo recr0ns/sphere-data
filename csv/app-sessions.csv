@@ -135,3 +135,4 @@ date,device,start,app,package,duration_sec
 2026-09-29,android,20:47:15,Dreams,com.google.assistant.hubui,808
 2026-09-29,android,21:00:55,Dreams,com.google.assistant.hubui,864
 2026-09-29,android,21:15:10,IntentResolver,com.android.intentresolver,8
+2026-09-29,android,21:15:30,Dreams,com.google.assistant.hubui,1007
