@@ -197,7 +197,13 @@ date,device,app,minutes
 2026-09-28,mac,Calendar,2.9
 2026-09-28,mac,Yandex Music,1.2
 2026-09-29,android,Dreams,48.2
-2026-09-29,android,Settings,1
+2026-09-29,android,Google Play Store,3.1
+2026-09-29,android,Yandex Music,2.6
+2026-09-29,android,Альфа-Банк,1.7
+2026-09-29,android,RuStore,1.2
+2026-09-29,android,Settings,1.2
+2026-09-29,android,Yandex,0.9
+2026-09-29,android,Google Play services,0.8
 2026-09-29,mac,Google Chrome,181.7
 2026-09-29,mac,Yandex Telemost,53.1
 2026-09-29,mac,Claude,47
