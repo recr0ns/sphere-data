@@ -128,3 +128,4 @@ date,device,start,app,package,duration_sec
 2026-09-29,android,10:47:03,Permission controller,com.google.android.permissioncontroller,5
 2026-09-29,android,10:49:22,Telegram,org.telegram.messenger,7
 2026-09-29,android,11:59:20,Happ,com.happproxy,4
+2026-09-29,android,13:24:24,Telegram,org.telegram.messenger,9
