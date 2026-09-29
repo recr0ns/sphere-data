@@ -196,13 +196,14 @@ date,device,app,minutes
 2026-09-28,mac,Yandex Telemost,4
 2026-09-28,mac,Calendar,2.9
 2026-09-28,mac,Yandex Music,1.2
-2026-09-29,android,Dreams,28.5
+2026-09-29,android,Dreams,43.5
 2026-09-29,android,Settings,1
-2026-09-29,mac,Google Chrome,153.7
+2026-09-29,mac,Google Chrome,164.3
 2026-09-29,mac,Yandex Telemost,53.1
-2026-09-29,mac,Telegram,36
-2026-09-29,mac,Claude,20.6
+2026-09-29,mac,Telegram,38.5
+2026-09-29,mac,Claude,31.2
 2026-09-29,mac,Pages,4.1
-2026-09-29,mac,Yandex Music,1.8
+2026-09-29,mac,Yandex Music,2.2
+2026-09-29,mac,Docker Desktop,0.7
 2026-09-29,mac,Steam Helper,0.6
 2026-09-29,mac,Discord,0.6
