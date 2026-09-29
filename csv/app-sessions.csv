@@ -132,3 +132,6 @@ date,device,start,app,package,duration_sec
 2026-09-29,android,16:31:52,Pixel Stand,com.google.android.apps.dreamliner,12
 2026-09-29,android,16:32:04,Dreams,com.google.assistant.hubui,34
 2026-09-29,android,16:32:38,Pixel Stand,com.google.android.apps.dreamliner,6
+2026-09-29,android,20:47:15,Dreams,com.google.assistant.hubui,808
+2026-09-29,android,21:00:55,Dreams,com.google.assistant.hubui,864
+2026-09-29,android,21:15:10,IntentResolver,com.android.intentresolver,8
