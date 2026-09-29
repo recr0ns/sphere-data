@@ -122,38 +122,73 @@ date,device,start,app,package,duration_sec
 2026-09-28,android,17:14:56,Happ,com.happproxy,5
 2026-09-28,android,17:15:04,Yandex Go,ru.yandex.taxi,28
 2026-09-28,android,17:15:34,Google,com.google.android.googlequicksearchbox,26
+2026-09-29,android,09:58:58,Settings,com.android.settings,7
 2026-09-29,android,09:59:01,Settings,com.android.settings,7
+2026-09-29,android,10:00:07,Settings,com.android.settings,8
 2026-09-29,android,10:00:10,Settings,com.android.settings,8
+2026-09-29,android,10:30:21,Happ,com.happproxy,5
 2026-09-29,android,10:30:24,Happ,com.happproxy,5
+2026-09-29,android,10:47:00,Permission controller,com.google.android.permissioncontroller,5
 2026-09-29,android,10:47:03,Permission controller,com.google.android.permissioncontroller,5
+2026-09-29,android,10:49:19,Telegram,org.telegram.messenger,7
 2026-09-29,android,10:49:22,Telegram,org.telegram.messenger,7
+2026-09-29,android,11:59:17,Happ,com.happproxy,4
 2026-09-29,android,11:59:20,Happ,com.happproxy,4
+2026-09-29,android,13:24:21,Telegram,org.telegram.messenger,9
 2026-09-29,android,13:24:24,Telegram,org.telegram.messenger,9
+2026-09-29,android,16:31:49,Pixel Stand,com.google.android.apps.dreamliner,12
 2026-09-29,android,16:31:52,Pixel Stand,com.google.android.apps.dreamliner,12
+2026-09-29,android,16:32:01,Dreams,com.google.assistant.hubui,34
 2026-09-29,android,16:32:04,Dreams,com.google.assistant.hubui,34
+2026-09-29,android,16:32:35,Pixel Stand,com.google.android.apps.dreamliner,6
 2026-09-29,android,16:32:38,Pixel Stand,com.google.android.apps.dreamliner,6
+2026-09-29,android,20:47:12,Dreams,com.google.assistant.hubui,808
 2026-09-29,android,20:47:15,Dreams,com.google.assistant.hubui,808
+2026-09-29,android,21:00:52,Dreams,com.google.assistant.hubui,864
 2026-09-29,android,21:00:55,Dreams,com.google.assistant.hubui,864
+2026-09-29,android,21:15:07,IntentResolver,com.android.intentresolver,8
 2026-09-29,android,21:15:10,IntentResolver,com.android.intentresolver,8
+2026-09-29,android,21:15:27,Dreams,com.google.assistant.hubui,1007
 2026-09-29,android,21:15:30,Dreams,com.google.assistant.hubui,1007
+2026-09-29,android,22:26:28,Dreams,com.google.assistant.hubui,171
 2026-09-29,android,22:26:31,Dreams,com.google.assistant.hubui,171
+2026-09-29,android,22:34:16,Google Play Store,com.android.vending,10
 2026-09-29,android,22:34:19,Google Play Store,com.android.vending,10
+2026-09-29,android,22:34:28,Google Play Store,com.android.vending,39
 2026-09-29,android,22:34:31,Google Play Store,com.android.vending,39
+2026-09-29,android,22:35:11,Google Play Store,com.android.vending,131
 2026-09-29,android,22:35:14,Google Play Store,com.android.vending,131
+2026-09-29,android,22:37:54,Chrome,com.android.chrome,27
 2026-09-29,android,22:37:57,Chrome,com.android.chrome,27
+2026-09-29,android,22:38:30,Package installer,com.google.android.packageinstaller,9
 2026-09-29,android,22:38:33,Package installer,com.google.android.packageinstaller,9
+2026-09-29,android,22:38:41,RuStore,ru.vk.store,3
 2026-09-29,android,22:38:44,RuStore,ru.vk.store,3
+2026-09-29,android,22:38:48,Settings,com.android.settings,5
 2026-09-29,android,22:38:51,Settings,com.android.settings,5
+2026-09-29,android,22:38:53,RuStore,ru.vk.store,24
 2026-09-29,android,22:38:56,RuStore,ru.vk.store,24
+2026-09-29,android,22:39:21,RuStore,ru.vk.store,17
 2026-09-29,android,22:39:24,RuStore,ru.vk.store,17
+2026-09-29,android,22:39:41,RuStore,ru.vk.store,5
 2026-09-29,android,22:39:44,RuStore,ru.vk.store,5
+2026-09-29,android,22:39:46,Yandex,com.yandex.searchapp,5
 2026-09-29,android,22:39:49,Yandex,com.yandex.searchapp,5
+2026-09-29,android,22:39:51,Google Play services,com.google.android.gms,42
 2026-09-29,android,22:39:54,Google Play services,com.google.android.gms,42
+2026-09-29,android,22:40:33,Yandex,com.yandex.searchapp,40
 2026-09-29,android,22:40:36,Yandex,com.yandex.searchapp,40
+2026-09-29,android,22:41:14,Google Play services,com.google.android.gms,6
 2026-09-29,android,22:41:16,Google Play services,com.google.android.gms,6
+2026-09-29,android,22:41:20,Yandex,com.yandex.searchapp,3
 2026-09-29,android,22:41:23,Yandex,com.yandex.searchapp,3
+2026-09-29,android,22:41:36,RuStore,ru.vk.store,18
 2026-09-29,android,22:41:39,RuStore,ru.vk.store,18
+2026-09-29,android,22:43:23,Альфа-Банк,ru.alfabank.mobile.android,10
 2026-09-29,android,22:43:26,Альфа-Банк,ru.alfabank.mobile.android,10
+2026-09-29,android,22:44:00,Альфа-Банк,ru.alfabank.mobile.android,9
 2026-09-29,android,22:44:03,Альфа-Банк,ru.alfabank.mobile.android,9
+2026-09-29,android,22:44:21,Yandex Music,ru.yandex.music,6
 2026-09-29,android,22:44:24,Yandex Music,ru.yandex.music,6
+2026-09-29,android,22:47:04,Yandex Go,ru.yandex.taxi,8
 2026-09-29,android,22:47:07,Yandex Go,ru.yandex.taxi,8
