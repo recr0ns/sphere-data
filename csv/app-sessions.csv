@@ -124,3 +124,4 @@ date,device,start,app,package,duration_sec
 2026-09-28,android,17:15:34,Google,com.google.android.googlequicksearchbox,26
 2026-09-29,android,09:59:01,Settings,com.android.settings,7
 2026-09-29,android,10:00:10,Settings,com.android.settings,8
+2026-09-29,android,10:30:24,Happ,com.happproxy,5
