@@ -327,8 +327,13 @@ date,device,domain,minutes
 2026-09-29,mac,orders.cloudpayments.ru,0.6
 2026-09-29,mac,logistics.point.kz,0.6
 2026-09-29,mac,pay.aeroflot.ru,0.5
-2026-09-30,mac,youtube.com,11.7
-2026-09-30,mac,msk.excimerclinic.ru,3.6
-2026-09-30,mac,cvz.ru,2.7
+2026-09-30,mac,youtube.com,14
+2026-09-30,mac,flyday.ru,5.1
+2026-09-30,mac,cvz.ru,3.8
+2026-09-30,mac,msk.excimerclinic.ru,3.7
+2026-09-30,mac,saga.tishkin.space,2.6
+2026-09-30,mac,google.com,1.7
 2026-09-30,mac,para-guru.ru,1.5
-2026-09-30,mac,flylabschool.com,0.6
+2026-09-30,mac,m-work.ru,1.2
+2026-09-30,mac,flylabschool.com,0.8
+2026-09-30,mac,profi.ru,0.5

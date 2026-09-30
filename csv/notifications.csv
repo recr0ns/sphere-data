@@ -79,3 +79,6 @@ date,time,app,package,title,text,category
 2026-09-30,09:33:52,Telegram,org.telegram.messenger,Oleg Kashkanov,по твоей ссылке,msg
 2026-09-30,09:36:49,Telegram,org.telegram.messenger,ETL Notifications Bot,Новый заказ O2609-879 Клиент: Виктор ВЕЛОСИПЕДЫ Маршрут: Кассель → Костанай Стоимость: 6 320 EUR,msg
 2026-09-30,10:20:57,Telegram,org.telegram.messenger,FlowMoscow,"Добрый день! 🕺 Вы забронированы 01.10.2026 в 22:30, 23:30 на полет в аэротрубе в спортивно-развлекательном комплексе Flow Moscow.",msg
+2026-09-30,11:14:12,Telegram,org.telegram.messenger,Kubernetes и кот Лихачева бот,"🖼 Собери инфраструктуру как тетрис Контейнеры Go, Python, PostgreSQL, Node.js - у каждого своя форма, но вместе они складываются в рабочую систему. ➖ Так и устроен Docker: изолированные блоки, которые аккуратно встраиваются д…",msg
+2026-09-30,11:20:03,Telegram,org.telegram.messenger,Oleg Kashkanov,"В общем нет, не увольняем",msg
+2026-09-30,11:20:29,Telegram,org.telegram.messenger,Oleg Kashkanov,Получается просто закрываем долги,msg
