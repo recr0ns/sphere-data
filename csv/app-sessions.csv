@@ -192,3 +192,9 @@ date,device,start,app,package,duration_sec
 2026-09-29,android,22:44:24,Yandex Music,ru.yandex.music,6
 2026-09-29,android,22:47:04,Yandex Go,ru.yandex.taxi,8
 2026-09-29,android,22:47:07,Yandex Go,ru.yandex.taxi,8
+2026-09-30,android,21:53:01,Google Play services,com.google.android.gms,5
+2026-09-30,android,21:53:07,Settings,com.android.settings,3
+2026-09-30,android,21:53:40,Dreams,com.google.assistant.hubui,5
+2026-09-30,android,21:57:20,Dreams,com.google.assistant.hubui,118
+2026-09-30,android,22:02:23,Dreams,com.google.assistant.hubui,23
+2026-09-30,android,22:03:59,Dreams,com.google.assistant.hubui,10
