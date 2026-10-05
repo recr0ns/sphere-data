@@ -650,3 +650,4 @@ date,device,start,app,package,duration_sec
 2026-10-01,android,07:00:53,Dreams,com.google.assistant.hubui,15196
 2026-10-01,android,14:53:37,Dreams,com.google.assistant.hubui,4
 2026-10-01,android,14:53:40,Dreams,com.google.assistant.hubui,4
+2026-10-05,android,10:09:40,Telegram,org.telegram.messenger,5
