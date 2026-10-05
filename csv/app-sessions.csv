@@ -661,3 +661,7 @@ date,device,start,app,package,duration_sec
 2026-10-05,android,23:44:22,Windtunnel Audio,dev.windtunnel.audio,17
 2026-10-05,android,23:44:40,Windtunnel Audio,dev.windtunnel.audio,3
 2026-10-05,android,23:44:46,Windtunnel Audio,dev.windtunnel.audio,100
+2026-10-05,android,23:46:34,Windtunnel Audio,dev.windtunnel.audio,263
+2026-10-05,android,23:51:01,Windtunnel Audio,dev.windtunnel.audio,4
+2026-10-05,android,23:51:08,Windtunnel Audio,dev.windtunnel.audio,156
+2026-10-05,android,23:53:50,Windtunnel Audio,dev.windtunnel.audio,44
