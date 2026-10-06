@@ -699,3 +699,4 @@ date,device,start,app,package,duration_sec
 2026-10-07,android,00:12:00,Android System Intelligence,com.google.android.as,6
 2026-10-07,android,00:12:16,YouTube,com.google.android.youtube,5
 2026-10-07,android,00:12:54,YouTube,com.google.android.youtube,849
+2026-10-07,android,01:20:15,YouTube,com.google.android.youtube,30
