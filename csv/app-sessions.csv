@@ -650,18 +650,33 @@ date,device,start,app,package,duration_sec
 2026-10-01,android,07:00:53,Dreams,com.google.assistant.hubui,15196
 2026-10-01,android,14:53:37,Dreams,com.google.assistant.hubui,4
 2026-10-01,android,14:53:40,Dreams,com.google.assistant.hubui,4
+2026-10-05,android,10:09:37,Telegram,org.telegram.messenger,5
 2026-10-05,android,10:09:40,Telegram,org.telegram.messenger,5
+2026-10-05,android,23:21:14,Settings,com.android.settings,3
 2026-10-05,android,23:21:17,Settings,com.android.settings,3
+2026-10-05,android,23:21:56,Dreams,com.google.assistant.hubui,5
 2026-10-05,android,23:21:59,Dreams,com.google.assistant.hubui,5
+2026-10-05,android,23:28:49,Permission controller,com.google.android.permissioncontroller,10
 2026-10-05,android,23:28:52,Permission controller,com.google.android.permissioncontroller,10
+2026-10-05,android,23:36:03,Permission controller,com.google.android.permissioncontroller,4
 2026-10-05,android,23:36:06,Permission controller,com.google.android.permissioncontroller,4
+2026-10-05,android,23:36:07,Windtunnel Audio,dev.windtunnel.audio,26
 2026-10-05,android,23:36:10,Windtunnel Audio,dev.windtunnel.audio,26
+2026-10-05,android,23:37:04,Settings,com.android.settings,9
 2026-10-05,android,23:37:07,Settings,com.android.settings,9
+2026-10-05,android,23:37:37,Windtunnel Audio,dev.windtunnel.audio,393
 2026-10-05,android,23:37:40,Windtunnel Audio,dev.windtunnel.audio,393
+2026-10-05,android,23:44:19,Windtunnel Audio,dev.windtunnel.audio,17
 2026-10-05,android,23:44:22,Windtunnel Audio,dev.windtunnel.audio,17
+2026-10-05,android,23:44:37,Windtunnel Audio,dev.windtunnel.audio,3
 2026-10-05,android,23:44:40,Windtunnel Audio,dev.windtunnel.audio,3
+2026-10-05,android,23:44:43,Windtunnel Audio,dev.windtunnel.audio,100
 2026-10-05,android,23:44:46,Windtunnel Audio,dev.windtunnel.audio,100
+2026-10-05,android,23:46:31,Windtunnel Audio,dev.windtunnel.audio,263
 2026-10-05,android,23:46:34,Windtunnel Audio,dev.windtunnel.audio,263
+2026-10-05,android,23:50:58,Windtunnel Audio,dev.windtunnel.audio,4
 2026-10-05,android,23:51:01,Windtunnel Audio,dev.windtunnel.audio,4
+2026-10-05,android,23:51:05,Windtunnel Audio,dev.windtunnel.audio,156
 2026-10-05,android,23:51:08,Windtunnel Audio,dev.windtunnel.audio,156
+2026-10-05,android,23:53:47,Windtunnel Audio,dev.windtunnel.audio,44
 2026-10-05,android,23:53:50,Windtunnel Audio,dev.windtunnel.audio,44

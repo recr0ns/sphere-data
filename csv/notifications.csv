@@ -766,3 +766,6 @@ date,time,app,package,title,text,category
 2026-10-06,02:57:07,Google Play Protect service,com.google.android.odad,Running checks on apps,Play Protect's live threat detection is checking your apps to keep your device and data safe,
 2026-10-06,02:59:50,Google Play Protect service,com.google.android.odad,Running checks on apps,Play Protect's live threat detection is checking your apps to keep your device and data safe,
 2026-10-06,03:00:07,Google Play Protect service,com.google.android.odad,Running checks on apps,Play Protect's live threat detection is checking your apps to keep your device and data safe,
+2026-10-06,04:13:15,Gmail,com.google.android.gm,ITLDC.com,Item expiration,email
+2026-10-06,04:13:53,Telegram,org.telegram.messenger,Saga,📮 ITLDC.com: Item expiration,msg
+2026-10-06,04:13:53,Telegram,org.telegram.messenger,Мемошная «У Димы»: Катя Милославская,Катя Милославская sent a message to the group Мемошная «У Димы»,msg
