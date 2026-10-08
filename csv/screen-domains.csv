@@ -396,6 +396,7 @@ date,device,domain,minutes
 2026-10-08,mac,fornex.com,1.4
 2026-10-08,mac,speedtest.net,0.8
 2026-10-08,mac,google.com,0.8
-2026-10-09,mac,chatgpt.com,59.5
+2026-10-09,mac,chatgpt.com,65.4
+2026-10-09,mac,cloudflare.com,7.9
 2026-10-09,mac,github.com,4.2
 2026-10-09,mac,claude.ai,1.5
