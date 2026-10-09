@@ -755,3 +755,13 @@ date,device,start,app,package,duration_sec
 2026-10-09,android,17:46:34,Files,com.google.android.documentsui,3
 2026-10-09,android,17:46:37,ETL Водитель,space.tishkin.etl.driver.debug,32
 2026-10-09,android,17:49:09,ETL Водитель,space.tishkin.etl.driver.debug,1416
+2026-10-09,android,19:39:01,Dreams,com.google.assistant.hubui,1128
+2026-10-09,android,19:57:57,ETL Водитель,space.tishkin.etl.driver.debug,50
+2026-10-09,android,19:58:48,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,19:59:11,ETL Водитель,space.tishkin.etl.driver.debug,86
+2026-10-09,android,20:00:37,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,20:06:19,ETL Водитель,space.tishkin.etl.driver.debug,6
+2026-10-09,android,20:06:27,ETL Водитель,space.tishkin.etl.driver.debug,77
+2026-10-09,android,20:07:45,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,20:09:12,ETL Водитель,space.tishkin.etl.driver.debug,29
+2026-10-09,android,20:09:42,Dreams,com.google.assistant.hubui,5
