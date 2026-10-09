@@ -766,3 +766,4 @@ date,device,start,app,package,duration_sec
 2026-10-09,android,20:09:12,ETL Водитель,space.tishkin.etl.driver.debug,29
 2026-10-09,android,20:09:42,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,21:54:55,ETL Водитель,space.tishkin.etl.driver.debug,5
+2026-10-09,android,21:55:07,YouTube,com.google.android.youtube,1559
