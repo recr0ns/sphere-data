@@ -397,12 +397,12 @@ date,device,domain,minutes
 2026-10-08,mac,speedtest.net,0.8
 2026-10-08,mac,google.com,0.8
 2026-10-09,mac,chatgpt.com,71.1
-2026-10-09,mac,twitch.tv,24.5
+2026-10-09,mac,youtube.com,26.8
+2026-10-09,mac,twitch.tv,24.7
 2026-10-09,mac,ozon.ru,20
-2026-10-09,mac,youtube.com,16.7
+2026-10-09,mac,github.com,9.5
 2026-10-09,mac,cloudflare.com,9.1
-2026-10-09,mac,github.com,8.1
-2026-10-09,mac,localhost,3.7
+2026-10-09,mac,localhost,4.9
 2026-10-09,mac,rau.encaro.ru,2.9
 2026-10-09,mac,google.com,2.2
 2026-10-09,mac,whats-new,1.9
