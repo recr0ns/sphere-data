@@ -741,3 +741,9 @@ date,device,start,app,package,duration_sec
 2026-10-09,android,03:37:56,YouTube,com.google.android.youtube,243
 2026-10-09,android,03:37:59,YouTube,com.google.android.youtube,243
 2026-10-09,android,17:01:15,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,17:39:33,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,17:40:11,Google,com.google.android.googlequicksearchbox,23
+2026-10-09,android,17:40:35,ETL Водитель,space.tishkin.etl.driver.debug,7
+2026-10-09,android,17:40:44,Telegram,org.telegram.messenger,23
+2026-10-09,android,17:41:08,ETL Водитель,space.tishkin.etl.driver.debug,6
+2026-10-09,android,17:41:18,Telegram,org.telegram.messenger,4
