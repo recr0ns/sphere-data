@@ -740,3 +740,4 @@ date,device,start,app,package,duration_sec
 2026-10-09,android,03:37:33,Settings,com.android.settings,12
 2026-10-09,android,03:37:56,YouTube,com.google.android.youtube,243
 2026-10-09,android,03:37:59,YouTube,com.google.android.youtube,243
+2026-10-09,android,17:01:15,Dreams,com.google.assistant.hubui,5
