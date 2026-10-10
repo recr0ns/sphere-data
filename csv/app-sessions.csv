@@ -781,3 +781,5 @@ date,device,start,app,package,duration_sec
 2026-10-10,android,21:59:15,Telegram,org.telegram.messenger,32
 2026-10-10,android,22:02:37,Google,com.google.android.googlequicksearchbox,3
 2026-10-10,android,22:02:41,Settings,com.android.settings,6
+2026-10-10,android,22:12:28,ETL Водитель,space.tishkin.etl.driver.debug,131
+2026-10-10,android,22:17:08,ETL Водитель,space.tishkin.etl.driver.debug,84
