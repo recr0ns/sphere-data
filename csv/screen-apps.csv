@@ -288,8 +288,8 @@ date,device,app,minutes
 2026-10-09,mac,Preview,4.8
 2026-10-09,mac,Yandex Music,0.7
 2026-10-09,mac,Finder,0.6
-2026-10-10,mac,Claude,277.8
-2026-10-10,mac,Google Chrome,69.6
+2026-10-10,mac,Claude,290.2
+2026-10-10,mac,Google Chrome,87.2
 2026-10-10,mac,Telegram,13.3
 2026-10-10,mac,Yandex Music,11
 2026-10-10,mac,Xcode,6.1
@@ -297,3 +297,4 @@ date,device,app,minutes
 2026-10-10,mac,System Settings,2.6
 2026-10-10,mac,Photos,1.8
 2026-10-10,mac,Warp,0.8
+2026-10-10,mac,Code,0.5
