@@ -783,3 +783,7 @@ date,device,start,app,package,duration_sec
 2026-10-10,android,22:02:41,Settings,com.android.settings,6
 2026-10-10,android,22:12:28,ETL Водитель,space.tishkin.etl.driver.debug,131
 2026-10-10,android,22:17:08,ETL Водитель,space.tishkin.etl.driver.debug,84
+2026-10-10,android,22:24:27,Dreams,com.google.assistant.hubui,377
+2026-10-10,android,22:30:54,Dreams,com.google.assistant.hubui,180
+2026-10-10,android,22:36:49,ETL Водитель,space.tishkin.etl.driver.debug,148
+2026-10-10,android,22:39:28,Dreams,com.google.assistant.hubui,37
