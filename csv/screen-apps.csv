@@ -293,8 +293,8 @@ date,device,app,minutes
 2026-10-10,android,Chrome,4.1
 2026-10-10,android,Telegram,0.6
 2026-10-10,android,Settings,0.5
-2026-10-10,mac,Claude,449.1
-2026-10-10,mac,Google Chrome,173.8
+2026-10-10,mac,Claude,470.5
+2026-10-10,mac,Google Chrome,176.1
 2026-10-10,mac,Telegram,15.5
 2026-10-10,mac,Yandex Music,11
 2026-10-10,mac,Xcode,6.1
@@ -303,3 +303,5 @@ date,device,app,minutes
 2026-10-10,mac,Photos,1.8
 2026-10-10,mac,Warp,0.8
 2026-10-10,mac,Code,0.8
+2026-10-11,mac,Google Chrome,5.4
+2026-10-11,mac,Claude,1.1
