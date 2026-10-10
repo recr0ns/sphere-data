@@ -838,3 +838,14 @@ date,device,start,app,package,duration_sec
 2026-10-10,android,22:56:29,Chrome,com.android.chrome,37
 2026-10-10,android,22:57:24,Chrome,com.android.chrome,208
 2026-10-10,android,23:13:15,Dreams,com.google.assistant.hubui,480
+2026-10-11,android,00:58:56,Chrome,com.android.chrome,13
+2026-10-11,android,00:59:33,YouTube,com.google.android.youtube,11
+2026-10-11,android,00:59:45,Happ,com.happproxy,3
+2026-10-11,android,00:59:53,YouTube,com.google.android.youtube,5
+2026-10-11,android,01:00:01,YouTube,com.google.android.youtube,9
+2026-10-11,android,01:00:45,Chrome,com.android.chrome,6
+2026-10-11,android,01:00:51,YouTube,com.google.android.youtube,5
+2026-10-11,android,01:00:58,Happ,com.happproxy,5
+2026-10-11,android,01:01:05,YouTube,com.google.android.youtube,18
+2026-10-11,android,01:01:27,Chrome,com.android.chrome,45
+2026-10-11,android,01:02:13,YouTube,com.google.android.youtube,51
