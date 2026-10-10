@@ -288,10 +288,12 @@ date,device,app,minutes
 2026-10-09,mac,Preview,4.8
 2026-10-09,mac,Yandex Music,0.7
 2026-10-09,mac,Finder,0.6
-2026-10-10,android,ETL Водитель,15.7
-2026-10-10,mac,Claude,356.4
+2026-10-10,android,ETL Водитель,16.8
+2026-10-10,android,Telegram,0.6
+2026-10-10,android,Dreams,0.5
+2026-10-10,mac,Claude,386.3
 2026-10-10,mac,Google Chrome,150.3
-2026-10-10,mac,Telegram,14.9
+2026-10-10,mac,Telegram,15
 2026-10-10,mac,Yandex Music,11
 2026-10-10,mac,Xcode,6.1
 2026-10-10,mac,Finder,3.2
