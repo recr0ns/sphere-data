@@ -741,50 +741,99 @@ date,device,start,app,package,duration_sec
 2026-10-09,android,03:37:56,YouTube,com.google.android.youtube,243
 2026-10-09,android,03:37:59,YouTube,com.google.android.youtube,243
 2026-10-09,android,17:01:15,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,17:39:29,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,17:39:33,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,17:40:07,Google,com.google.android.googlequicksearchbox,23
 2026-10-09,android,17:40:11,Google,com.google.android.googlequicksearchbox,23
+2026-10-09,android,17:40:31,ETL Водитель,space.tishkin.etl.driver.debug,7
 2026-10-09,android,17:40:35,ETL Водитель,space.tishkin.etl.driver.debug,7
+2026-10-09,android,17:40:41,Telegram,org.telegram.messenger,23
 2026-10-09,android,17:40:44,Telegram,org.telegram.messenger,23
+2026-10-09,android,17:41:04,ETL Водитель,space.tishkin.etl.driver.debug,6
 2026-10-09,android,17:41:08,ETL Водитель,space.tishkin.etl.driver.debug,6
+2026-10-09,android,17:41:14,Telegram,org.telegram.messenger,4
 2026-10-09,android,17:41:18,Telegram,org.telegram.messenger,4
+2026-10-09,android,17:41:59,ETL Водитель,space.tishkin.etl.driver.debug,4
 2026-10-09,android,17:42:02,ETL Водитель,space.tishkin.etl.driver.debug,4
+2026-10-09,android,17:42:28,Telegram,org.telegram.messenger,4
 2026-10-09,android,17:42:32,Telegram,org.telegram.messenger,4
+2026-10-09,android,17:42:34,ETL Водитель,space.tishkin.etl.driver.debug,93
 2026-10-09,android,17:42:37,ETL Водитель,space.tishkin.etl.driver.debug,93
+2026-10-09,android,17:44:08,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,17:44:11,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,17:44:51,ETL Водитель,space.tishkin.etl.driver.debug,95
 2026-10-09,android,17:44:54,ETL Водитель,space.tishkin.etl.driver.debug,95
+2026-10-09,android,17:46:31,Files,com.google.android.documentsui,3
 2026-10-09,android,17:46:34,Files,com.google.android.documentsui,3
+2026-10-09,android,17:46:34,ETL Водитель,space.tishkin.etl.driver.debug,32
 2026-10-09,android,17:46:37,ETL Водитель,space.tishkin.etl.driver.debug,32
+2026-10-09,android,17:49:05,ETL Водитель,space.tishkin.etl.driver.debug,1416
 2026-10-09,android,17:49:09,ETL Водитель,space.tishkin.etl.driver.debug,1416
+2026-10-09,android,19:38:58,Dreams,com.google.assistant.hubui,1128
 2026-10-09,android,19:39:01,Dreams,com.google.assistant.hubui,1128
+2026-10-09,android,19:57:54,ETL Водитель,space.tishkin.etl.driver.debug,50
 2026-10-09,android,19:57:57,ETL Водитель,space.tishkin.etl.driver.debug,50
+2026-10-09,android,19:58:44,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,19:58:48,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,19:59:07,ETL Водитель,space.tishkin.etl.driver.debug,86
 2026-10-09,android,19:59:11,ETL Водитель,space.tishkin.etl.driver.debug,86
+2026-10-09,android,20:00:33,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,20:00:37,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,20:06:16,ETL Водитель,space.tishkin.etl.driver.debug,6
 2026-10-09,android,20:06:19,ETL Водитель,space.tishkin.etl.driver.debug,6
+2026-10-09,android,20:06:24,ETL Водитель,space.tishkin.etl.driver.debug,77
 2026-10-09,android,20:06:27,ETL Водитель,space.tishkin.etl.driver.debug,77
+2026-10-09,android,20:07:41,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,20:07:45,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,20:09:09,ETL Водитель,space.tishkin.etl.driver.debug,29
 2026-10-09,android,20:09:12,ETL Водитель,space.tishkin.etl.driver.debug,29
+2026-10-09,android,20:09:39,Dreams,com.google.assistant.hubui,5
 2026-10-09,android,20:09:42,Dreams,com.google.assistant.hubui,5
+2026-10-09,android,21:54:52,ETL Водитель,space.tishkin.etl.driver.debug,5
 2026-10-09,android,21:54:55,ETL Водитель,space.tishkin.etl.driver.debug,5
+2026-10-09,android,21:55:03,YouTube,com.google.android.youtube,1559
 2026-10-09,android,21:55:07,YouTube,com.google.android.youtube,1559
+2026-10-10,android,21:21:09,ETL Водитель,space.tishkin.etl.driver.debug,799
 2026-10-10,android,21:21:12,ETL Водитель,space.tishkin.etl.driver.debug,799
+2026-10-10,android,21:34:28,Dreams,com.google.assistant.hubui,3
 2026-10-10,android,21:34:32,Dreams,com.google.assistant.hubui,3
+2026-10-10,android,21:34:45,Dreams,com.google.assistant.hubui,3
 2026-10-10,android,21:34:48,Dreams,com.google.assistant.hubui,3
+2026-10-10,android,21:39:56,Dreams,com.google.assistant.hubui,17
 2026-10-10,android,21:40:00,Dreams,com.google.assistant.hubui,17
+2026-10-10,android,21:45:02,ETL Водитель,space.tishkin.etl.driver.debug,110
 2026-10-10,android,21:45:05,ETL Водитель,space.tishkin.etl.driver.debug,110
+2026-10-10,android,21:50:03,ETL Водитель,space.tishkin.etl.driver.debug,33
 2026-10-10,android,21:50:06,ETL Водитель,space.tishkin.etl.driver.debug,33
+2026-10-10,android,21:57:34,ETL Водитель,space.tishkin.etl.driver.debug,25
 2026-10-10,android,21:57:38,ETL Водитель,space.tishkin.etl.driver.debug,25
+2026-10-10,android,21:58:06,ETL Водитель,space.tishkin.etl.driver.debug,34
 2026-10-10,android,21:58:10,ETL Водитель,space.tishkin.etl.driver.debug,34
+2026-10-10,android,21:58:45,ETL Водитель,space.tishkin.etl.driver.debug,3
 2026-10-10,android,21:58:48,ETL Водитель,space.tishkin.etl.driver.debug,3
+2026-10-10,android,21:59:03,Markup,com.google.android.markup,4
 2026-10-10,android,21:59:06,Markup,com.google.android.markup,4
+2026-10-10,android,21:59:07,IntentResolver,com.android.intentresolver,4
 2026-10-10,android,21:59:11,IntentResolver,com.android.intentresolver,4
+2026-10-10,android,21:59:12,Telegram,org.telegram.messenger,32
 2026-10-10,android,21:59:15,Telegram,org.telegram.messenger,32
+2026-10-10,android,22:02:34,Google,com.google.android.googlequicksearchbox,3
 2026-10-10,android,22:02:37,Google,com.google.android.googlequicksearchbox,3
+2026-10-10,android,22:02:37,Settings,com.android.settings,6
 2026-10-10,android,22:02:41,Settings,com.android.settings,6
+2026-10-10,android,22:12:25,ETL Водитель,space.tishkin.etl.driver.debug,131
 2026-10-10,android,22:12:28,ETL Водитель,space.tishkin.etl.driver.debug,131
+2026-10-10,android,22:17:04,ETL Водитель,space.tishkin.etl.driver.debug,84
 2026-10-10,android,22:17:08,ETL Водитель,space.tishkin.etl.driver.debug,84
+2026-10-10,android,22:24:23,Dreams,com.google.assistant.hubui,377
 2026-10-10,android,22:24:27,Dreams,com.google.assistant.hubui,377
+2026-10-10,android,22:30:51,Dreams,com.google.assistant.hubui,180
 2026-10-10,android,22:30:54,Dreams,com.google.assistant.hubui,180
+2026-10-10,android,22:36:45,ETL Водитель,space.tishkin.etl.driver.debug,148
 2026-10-10,android,22:36:49,ETL Водитель,space.tishkin.etl.driver.debug,148
+2026-10-10,android,22:39:25,Dreams,com.google.assistant.hubui,37
 2026-10-10,android,22:39:28,Dreams,com.google.assistant.hubui,37
+2026-10-10,android,22:43:32,Dreams,com.google.assistant.hubui,11
 2026-10-10,android,22:43:35,Dreams,com.google.assistant.hubui,11
+2026-10-10,android,22:56:29,Chrome,com.android.chrome,37
+2026-10-10,android,22:57:24,Chrome,com.android.chrome,208
