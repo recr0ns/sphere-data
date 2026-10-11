@@ -448,9 +448,9 @@ date,device,domain,minutes
 2026-10-10,mac,earhugger.com,0.7
 2026-10-10,mac,eu.robotshop.com,0.5
 2026-10-11,mac,youtube.com,25.5
-2026-10-11,mac,github.com,21.4
-2026-10-11,mac,terraink.app,10.3
-2026-10-11,mac,zefio.io,7.4
+2026-10-11,mac,github.com,21.7
+2026-10-11,mac,terraink.app,11
+2026-10-11,mac,zefio.io,9.1
 2026-10-11,mac,kling.ai,5.7
 2026-10-11,mac,localhost,3.4
 2026-10-11,mac,fornex.com,1.1
