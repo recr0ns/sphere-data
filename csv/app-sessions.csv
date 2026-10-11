@@ -873,3 +873,6 @@ date,device,start,app,package,duration_sec
 2026-10-11,android,18:11:55,Dreams,com.google.assistant.hubui,83
 2026-10-11,android,18:16:13,Dreams,com.google.assistant.hubui,4
 2026-10-11,android,19:14:03,Dreams,com.google.assistant.hubui,49
+2026-10-11,android,19:52:25,Telegram,org.telegram.messenger,3
+2026-10-11,android,19:52:28,ETL Водитель,space.tishkin.etl.driver,11
+2026-10-11,android,19:52:41,Telegram,org.telegram.messenger,27
