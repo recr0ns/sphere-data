@@ -305,14 +305,14 @@ date,device,app,minutes
 2026-10-10,mac,Code,0.8
 2026-10-11,android,YouTube,1.7
 2026-10-11,android,Chrome,1.1
-2026-10-11,mac,Claude,238.4
-2026-10-11,mac,Google Chrome,134.4
+2026-10-11,mac,Claude,255.4
+2026-10-11,mac,Google Chrome,143.4
 2026-10-11,mac,Code,11.5
-2026-10-11,mac,Telegram,9.1
+2026-10-11,mac,Telegram,9.2
+2026-10-11,mac,Warp,6.6
 2026-10-11,mac,Yandex Music,5.2
-2026-10-11,mac,Warp,2.7
 2026-10-11,mac,Preview,2.2
-2026-10-11,mac,Notes,1.2
+2026-10-11,mac,Notes,1.8
 2026-10-11,mac,Numbers,1
 2026-10-11,mac,Docker Desktop,0.7
 2026-10-11,mac,Finder,0.5
