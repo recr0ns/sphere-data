@@ -303,17 +303,18 @@ date,device,app,minutes
 2026-10-10,mac,Warp,0.8
 2026-10-10,mac,Code,0.8
 2026-10-11,android,Chrome,8.5
+2026-10-11,android,Dreams,5.8
 2026-10-11,android,Telegram,3.8
 2026-10-11,android,YouTube,1.7
 2026-10-11,android,ETL Водитель,0.5
-2026-10-11,mac,Claude,268.3
-2026-10-11,mac,Google Chrome,159.3
+2026-10-11,mac,Claude,270.1
+2026-10-11,mac,Google Chrome,161.4
+2026-10-11,mac,Telegram,19
 2026-10-11,mac,Code,11.5
-2026-10-11,mac,Telegram,10
 2026-10-11,mac,Warp,6.6
 2026-10-11,mac,Yandex Music,5.2
-2026-10-11,mac,Preview,2.2
+2026-10-11,mac,Numbers,3.1
+2026-10-11,mac,Preview,2.8
 2026-10-11,mac,Notes,1.8
-2026-10-11,mac,Numbers,1
 2026-10-11,mac,Docker Desktop,0.7
 2026-10-11,mac,Finder,0.5

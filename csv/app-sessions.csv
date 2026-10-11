@@ -869,3 +869,6 @@ date,device,start,app,package,duration_sec
 2026-10-11,android,18:04:22,Telegram,org.telegram.messenger,3
 2026-10-11,android,18:04:26,Permission controller,com.google.android.permissioncontroller,3
 2026-10-11,android,18:04:29,Telegram,org.telegram.messenger,66
+2026-10-11,android,18:07:25,Dreams,com.google.assistant.hubui,258
+2026-10-11,android,18:11:55,Dreams,com.google.assistant.hubui,83
+2026-10-11,android,18:16:13,Dreams,com.google.assistant.hubui,4
