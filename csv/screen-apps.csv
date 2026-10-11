@@ -305,5 +305,7 @@ date,device,app,minutes
 2026-10-10,mac,Code,0.8
 2026-10-11,android,YouTube,1.7
 2026-10-11,android,Chrome,1.1
-2026-10-11,mac,Claude,35
-2026-10-11,mac,Google Chrome,10.3
+2026-10-11,mac,Claude,41.6
+2026-10-11,mac,Google Chrome,24
+2026-10-11,mac,Yandex Music,4.3
+2026-10-11,mac,Docker Desktop,0.7
