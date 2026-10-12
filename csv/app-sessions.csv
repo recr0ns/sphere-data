@@ -879,3 +879,5 @@ date,device,start,app,package,duration_sec
 2026-10-11,android,22:46:42,YouTube,com.google.android.youtube,38
 2026-10-11,android,22:48:46,YouTube,com.google.android.youtube,504
 2026-10-12,android,01:21:58,YouTube,com.google.android.youtube,111
+2026-10-12,android,09:30:13,Telegram,org.telegram.messenger,3
+2026-10-12,android,09:30:16,Telegram,org.telegram.messenger,8
