@@ -478,4 +478,7 @@ date,device,domain,minutes
 2026-10-12,mac,etl.tishkin.space,2.9
 2026-10-12,mac,seed.bytedance.com,2.2
 2026-10-12,mac,google.com,0.6
-2026-10-13,mac,youtube.com,1.3
+2026-10-13,mac,youtube.com,16.4
+2026-10-13,mac,etl.tishkin.space,0.8
+2026-10-13,mac,iforgot.apple.com,0.6
+2026-10-13,mac,idmsa.apple.com,0.5
