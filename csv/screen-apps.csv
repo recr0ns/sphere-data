@@ -364,7 +364,7 @@ date,device,app,minutes
 2026-10-20,mac,Telegram,2.9
 2026-10-20,mac,Claude,1.1
 2026-10-20,mac,Finder,0.6
-2026-10-21,mac,Google Chrome,164.2
+2026-10-21,mac,Google Chrome,170.2
 2026-10-21,mac,Telegram,74.8
 2026-10-21,mac,Claude,70.5
 2026-10-21,mac,Yandex Music,59.6
@@ -377,3 +377,4 @@ date,device,app,minutes
 2026-10-21,mac,Happ,1.4
 2026-10-21,mac,Warp,1.1
 2026-10-21,mac,Disk Utility,0.7
+2026-10-22,mac,Google Chrome,3.5
