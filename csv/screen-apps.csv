@@ -384,8 +384,10 @@ date,device,app,minutes
 2026-10-23,mac,Google Chrome,75.6
 2026-10-23,mac,Claude,19.9
 2026-10-23,mac,Telegram,10.2
-2026-10-24,mac,Google Chrome,39
-2026-10-24,mac,Claude,7.8
-2026-10-24,mac,Yandex Music,2.7
-2026-10-24,mac,Bambu Studio,1
-2026-10-24,mac,Telegram,0.9
+2026-10-24,mac,Google Chrome,42.2
+2026-10-24,mac,Claude,20.7
+2026-10-24,mac,Fusion,4.7
+2026-10-24,mac,Yandex Music,3.1
+2026-10-24,mac,Telegram,2
+2026-10-24,mac,Bambu Studio,1.2
+2026-10-24,mac,Finder,0.7
