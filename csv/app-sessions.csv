@@ -911,3 +911,6 @@ date,device,start,app,package,duration_sec
 2026-10-12,android,09:30:10,Telegram,org.telegram.messenger,3
 2026-10-12,android,09:30:13,Telegram,org.telegram.messenger,3
 2026-10-12,android,09:30:16,Telegram,org.telegram.messenger,8
+2026-10-28,android,20:41:58,Google Play services,com.google.android.gms,3
+2026-10-28,android,20:42:22,Google Play Store,com.android.vending,16
+2026-10-28,android,20:42:56,Google Play Store,com.android.vending,154
