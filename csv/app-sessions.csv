@@ -911,6 +911,23 @@ date,device,start,app,package,duration_sec
 2026-10-12,android,09:30:10,Telegram,org.telegram.messenger,3
 2026-10-12,android,09:30:13,Telegram,org.telegram.messenger,3
 2026-10-12,android,09:30:16,Telegram,org.telegram.messenger,8
+2026-10-28,android,20:41:54,Google Play services,com.google.android.gms,3
 2026-10-28,android,20:41:58,Google Play services,com.google.android.gms,3
+2026-10-28,android,20:42:18,Google Play Store,com.android.vending,16
 2026-10-28,android,20:42:22,Google Play Store,com.android.vending,16
+2026-10-28,android,20:42:52,Google Play Store,com.android.vending,154
 2026-10-28,android,20:42:56,Google Play Store,com.android.vending,154
+2026-10-29,android,11:05:08,PICOOC,com.picooc.international,6
+2026-10-29,android,11:07:12,Google Play services,com.google.android.gms,13
+2026-10-29,android,11:07:43,Google Play services,com.google.android.gms,7
+2026-10-29,android,11:09:28,PICOOC,com.picooc.international,5
+2026-10-29,android,11:09:41,PICOOC,com.picooc.international,19
+2026-10-29,android,11:10:06,PICOOC,com.picooc.international,3
+2026-10-29,android,11:10:10,Permission controller,com.google.android.permissioncontroller,4
+2026-10-29,android,11:10:18,Settings,com.android.settings,9
+2026-10-29,android,11:10:28,PICOOC,com.picooc.international,12
+2026-10-29,android,11:13:53,PICOOC,com.picooc.international,20
+2026-10-29,android,11:14:27,Google Play services,com.google.android.gms,7
+2026-10-29,android,11:17:18,PICOOC,com.picooc.international,4
+2026-10-29,android,11:17:25,Google Play services,com.google.android.gms,5
+2026-10-29,android,11:17:38,Google Play services,com.google.android.gms,4
