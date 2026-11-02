@@ -638,7 +638,7 @@ date,device,domain,minutes
 2026-11-01,mac,novaprint3d.ru,0.5
 2026-11-02,mac,youtube.com,47.1
 2026-11-02,mac,pikabu.ru,43.6
-2026-11-02,mac,google.com,20.4
+2026-11-02,mac,google.com,20.7
 2026-11-02,mac,github.com,18.9
 2026-11-02,mac,dribbble.com,17.5
 2026-11-02,mac,fonts.google.com,10
@@ -651,13 +651,14 @@ date,device,domain,minutes
 2026-11-02,mac,drive.google.com,2.7
 2026-11-02,mac,telemost.yandex.ru,2.1
 2026-11-02,mac,radix-ui.com,2
+2026-11-02,mac,chromatic.com,1.6
 2026-11-02,mac,elevenlabs.io,1.5
 2026-11-02,mac,huggingface.co,1.5
 2026-11-02,mac,chutingstar.com,1.1
 2026-11-02,mac,getartcraft.com,1.1
 2026-11-02,mac,geo-restriction.elevenlabs.io,1
-2026-11-02,mac,claude.ai,0.9
 2026-11-02,mac,nivo.rocks,0.9
+2026-11-02,mac,claude.ai,0.9
 2026-11-02,mac,reg.ru,0.9
 2026-11-02,mac,rammnet.ru,0.9
 2026-11-02,mac,aurusmotors.com,0.8
