@@ -643,8 +643,8 @@ date,device,domain,minutes
 2026-11-02,mac,toolkit.artlist.io,8.1
 2026-11-02,mac,ozon.ru,7.7
 2026-11-02,mac,fonts.google.com,6.8
+2026-11-02,mac,github.com,5.4
 2026-11-02,mac,artlist.io,3.6
-2026-11-02,mac,github.com,3.4
 2026-11-02,mac,drive.google.com,2.7
 2026-11-02,mac,newtab,2.6
 2026-11-02,mac,telemost.yandex.ru,2.1
@@ -656,5 +656,6 @@ date,device,domain,minutes
 2026-11-02,mac,reg.ru,0.9
 2026-11-02,mac,docs.astutegraphics.com,0.7
 2026-11-02,mac,zefio.io,0.7
+2026-11-02,mac,?,0.7
 2026-11-02,mac,projectcutaway.com,0.6
 2026-11-02,mac,saga.tishkin.space,0.6
