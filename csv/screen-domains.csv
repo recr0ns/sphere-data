@@ -672,9 +672,11 @@ date,device,domain,minutes
 2026-11-02,mac,saga.tishkin.space,0.6
 2026-11-03,mac,youtube.com,52.9
 2026-11-03,mac,localhost,6.9
+2026-11-03,mac,getartcraft.com,5.3
 2026-11-03,mac,claude.ai,2.9
 2026-11-03,mac,dash.cloudflare.com,2.8
 2026-11-03,mac,figma.com,2.6
-2026-11-03,mac,github.com,1.4
-2026-11-03,mac,newtab,0.7
+2026-11-03,mac,github.com,1.6
+2026-11-03,mac,image-line.com,0.9
+2026-11-03,mac,newtab,0.8
 2026-11-03,mac,support.claude.com,0.5
