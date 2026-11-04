@@ -932,15 +932,27 @@ date,device,start,app,package,duration_sec
 2026-10-29,android,11:17:25,Google Play services,com.google.android.gms,5
 2026-10-29,android,11:17:38,Google Play services,com.google.android.gms,4
 2026-10-29,android,13:47:45,Google Play services,com.google.android.gms,5
+2026-11-03,android,21:16:53,Permission controller,com.google.android.permissioncontroller,10
 2026-11-03,android,21:16:55,Permission controller,com.google.android.permissioncontroller,10
+2026-11-03,android,21:17:03,PICOOC,com.picooc.international,39
 2026-11-03,android,21:17:06,PICOOC,com.picooc.international,39
+2026-11-03,android,21:18:31,Markup,com.google.android.markup,4
 2026-11-03,android,21:18:34,Markup,com.google.android.markup,4
+2026-11-03,android,21:18:36,IntentResolver,com.android.intentresolver,4
 2026-11-03,android,21:18:39,IntentResolver,com.android.intentresolver,4
+2026-11-03,android,21:18:41,Markup,com.google.android.markup,4
 2026-11-03,android,21:18:43,Markup,com.google.android.markup,4
+2026-11-03,android,21:18:47,Telegram,org.telegram.messenger,13
 2026-11-03,android,21:18:50,Telegram,org.telegram.messenger,13
+2026-11-03,android,21:19:07,Happ,com.happproxy,5
 2026-11-03,android,21:19:10,Happ,com.happproxy,5
+2026-11-03,android,21:19:12,Telegram,org.telegram.messenger,5
 2026-11-03,android,21:19:15,Telegram,org.telegram.messenger,5
+2026-11-03,android,21:19:18,Happ,com.happproxy,13
 2026-11-03,android,21:19:20,Happ,com.happproxy,13
+2026-11-03,android,21:19:37,PICOOC,com.picooc.international,4
 2026-11-03,android,21:19:40,PICOOC,com.picooc.international,4
+2026-11-03,android,21:19:41,IntentResolver,com.android.intentresolver,4
 2026-11-03,android,21:19:44,IntentResolver,com.android.intentresolver,4
+2026-11-03,android,21:19:45,Telegram,org.telegram.messenger,122
 2026-11-03,android,21:19:48,Telegram,org.telegram.messenger,122
