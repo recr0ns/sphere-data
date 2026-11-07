@@ -479,7 +479,7 @@ date,device,app,minutes
 2026-11-05,android,PICOOC,2.2
 2026-11-05,mac,Google Chrome,433
 2026-11-05,mac,Telegram,62.6
-2026-11-07,mac,Google Chrome,417.2
+2026-11-07,mac,Google Chrome,434.4
 2026-11-07,mac,Fusion,72.1
 2026-11-07,mac,Claude,24.5
 2026-11-07,mac,Telegram,24.1
@@ -487,3 +487,4 @@ date,device,app,minutes
 2026-11-07,mac,Yandex Music,5.5
 2026-11-07,mac,SolidCraft,5.3
 2026-11-07,mac,Finder,2.3
+2026-11-08,mac,Google Chrome,0.8
