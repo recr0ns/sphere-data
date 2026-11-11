@@ -702,7 +702,7 @@ date,device,domain,minutes
 2026-11-08,mac,youtube.com,48
 2026-11-08,mac,saga.tishkin.space,0.8
 2026-11-09,mac,youtube.com,117.6
-2026-11-10,mac,youtube.com,141.9
+2026-11-10,mac,youtube.com,159.2
 2026-11-10,mac,saga.tishkin.space,11.5
 2026-11-10,mac,ozon.ru,4.5
 2026-11-10,mac,aari.ru,2.8
@@ -712,3 +712,5 @@ date,device,domain,minutes
 2026-11-10,mac,google.com,0.7
 2026-11-10,mac,dokumen.pub,0.6
 2026-11-10,mac,newtab,0.5
+2026-11-11,mac,youtube.com,10.8
+2026-11-11,mac,etl.tishkin.space,2.4
