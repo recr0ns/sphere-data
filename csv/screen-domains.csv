@@ -723,12 +723,12 @@ date,device,domain,minutes
 2026-11-11,mac,newtab,0.7
 2026-11-11,mac,github.com,0.6
 2026-11-11,mac,proxmox.com,0.6
-2026-11-12,mac,youtube.com,195.1
+2026-11-12,mac,youtube.com,197.8
 2026-11-12,mac,ozon.ru,51.5
 2026-11-12,mac,hh.ru,42.7
-2026-11-12,mac,homeassistant.local,36.2
+2026-11-12,mac,homeassistant.local,36.3
+2026-11-12,mac,twitch.tv,15.3
 2026-11-12,mac,pikabu.ru,13.8
-2026-11-12,mac,twitch.tv,11.3
 2026-11-12,mac,etl.tishkin.space,10.9
 2026-11-12,mac,remplanner.ru,5.5
 2026-11-12,mac,google.com,4.2
