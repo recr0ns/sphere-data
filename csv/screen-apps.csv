@@ -522,12 +522,13 @@ date,device,app,minutes
 2026-11-12,mac,Activity Monitor,0.5
 2026-11-12,mac,Yandex Music,0.5
 2026-11-13,android,Google Play services,1.1
-2026-11-13,mac,Google Chrome,224.9
-2026-11-13,mac,Claude,67.4
+2026-11-13,mac,Google Chrome,237.4
+2026-11-13,mac,Claude,67.5
 2026-11-13,mac,Bambu Studio,43.8
 2026-11-13,mac,Telegram,43.3
 2026-11-13,mac,Fusion,36.3
 2026-11-13,mac,Voice Memos,8.9
+2026-11-13,mac,Books,4.5
 2026-11-13,mac,Yandex Music,4.3
 2026-11-13,mac,Warp,1.2
 2026-11-13,mac,Finder,0.6
