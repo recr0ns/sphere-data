@@ -521,11 +521,12 @@ date,device,app,minutes
 2026-11-12,mac,Warp,0.7
 2026-11-12,mac,Activity Monitor,0.5
 2026-11-12,mac,Yandex Music,0.5
-2026-11-13,mac,Google Chrome,170.8
+2026-11-13,mac,Google Chrome,172
 2026-11-13,mac,Claude,67.4
 2026-11-13,mac,Telegram,42.1
-2026-11-13,mac,Fusion,31.9
+2026-11-13,mac,Fusion,36.3
+2026-11-13,mac,Bambu Studio,28.2
 2026-11-13,mac,Voice Memos,8.9
-2026-11-13,mac,Bambu Studio,6.7
 2026-11-13,mac,Yandex Music,4.3
 2026-11-13,mac,Warp,1.2
+2026-11-13,mac,Finder,0.6
