@@ -958,3 +958,4 @@ date,device,start,app,package,duration_sec
 2026-11-03,android,21:19:48,Telegram,org.telegram.messenger,122
 2026-11-05,android,10:33:36,PICOOC,com.picooc.international,10
 2026-11-05,android,10:33:39,PICOOC,com.picooc.international,10
+2026-11-13,android,19:36:21,Google Play services,com.google.android.gms,3
