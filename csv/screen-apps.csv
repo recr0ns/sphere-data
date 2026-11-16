@@ -548,9 +548,9 @@ date,device,app,minutes
 2026-11-15,mac,Bambu Studio,43.5
 2026-11-15,mac,Telegram,28.5
 2026-11-15,mac,Finder,1.7
-2026-11-16,mac,Google Chrome,339.2
+2026-11-16,mac,Google Chrome,342.8
 2026-11-16,mac,Notes,30.7
-2026-11-16,mac,Telegram,19.6
+2026-11-16,mac,Telegram,21
 2026-11-16,mac,Discord,19.1
 2026-11-16,mac,Steam Helper,16.8
 2026-11-16,mac,Claude,16.4
@@ -558,3 +558,4 @@ date,device,app,minutes
 2026-11-16,mac,Bambu Studio,4.4
 2026-11-16,mac,Fusion,2.5
 2026-11-16,mac,Activity Monitor,0.9
+2026-11-17,mac,Google Chrome,5
