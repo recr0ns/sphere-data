@@ -959,4 +959,5 @@ date,device,start,app,package,duration_sec
 2026-11-05,android,10:33:36,PICOOC,com.picooc.international,10
 2026-11-05,android,10:33:39,PICOOC,com.picooc.international,10
 2026-11-13,android,19:36:21,Google Play services,com.google.android.gms,3
+2026-11-18,android,16:14:01,Gmail,com.google.android.gm,9
 2026-11-18,android,16:14:04,Gmail,com.google.android.gm,9
