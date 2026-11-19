@@ -816,12 +816,12 @@ date,device,domain,minutes
 2026-11-18,mac,dribbble.com,2.5
 2026-11-18,mac,newtab,0.7
 2026-11-18,mac,etl.tishkin.space,0.6
-2026-11-19,mac,youtube.com,72.4
-2026-11-19,mac,saga.tishkin.space,24.2
-2026-11-19,mac,old.yummyani.me,20
+2026-11-19,mac,youtube.com,80.9
+2026-11-19,mac,saga.tishkin.space,24.3
+2026-11-19,mac,old.yummyani.me,21.9
 2026-11-19,mac,ozon.ru,12.7
 2026-11-19,mac,turbosquid.com,10.1
-2026-11-19,mac,chatgpt.com,7.5
+2026-11-19,mac,chatgpt.com,8.8
 2026-11-19,mac,cgtrader.com,6.9
 2026-11-19,mac,google.com,4
 2026-11-19,mac,twitch.tv,3.2
@@ -834,4 +834,5 @@ date,device,domain,minutes
 2026-11-19,mac,msk.excimerclinic.ru,1
 2026-11-19,mac,helpx.adobe.com,0.8
 2026-11-19,mac,cults3d.com,0.8
+2026-11-19,mac,claude.ai,0.7
 2026-11-19,mac,mail.google.com,0.7
