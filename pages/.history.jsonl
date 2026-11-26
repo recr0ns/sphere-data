@@ -3,3 +3,5 @@
 {"id":"202611200027-tn43","at":"2026-11-20 00:27","who":"ed","slug":"test","title":"Test","kind":"project","type":"text","text":"Написал текст","added":1,"removed":0,"before":"","after":"Привет, новый тестовый проект\n"}
 {"id":"202611200029-vwl4","at":"2026-11-20 01:31","who":"ed","slug":"skydive-helmet","title":"Skydive Helmet","kind":"board","type":"board","text":"Изменил доску","added":0,"removed":0}
 {"id":"202611261429-18v60","at":"2026-11-26 14:29","who":"saga","slug":"test","title":"Test","kind":"project","type":"structure","text":"Удалила проект и 0 док.","added":0,"removed":0,"trash":"202611261429-0d7e48"}
+{"id":"202611270050-6hf0","at":"2026-11-27 00:50","who":"ed","slug":"saga","title":"Сага","kind":"board","type":"structure","text":"Создал доску","added":0,"removed":0}
+{"id":"202611270050-90f1","at":"2026-11-27 00:50","who":"ed","slug":"saga","title":"Сага","kind":"board","type":"board","text":"Изменил доску","added":0,"removed":0}
