@@ -1,0 +1,39 @@
+{
+  "title": "Запиши стакан воды 250 мл",
+  "surface": "web",
+  "created": "2026-11-28T13:24:36.514Z",
+  "updated": "2026-11-28T13:24:36.514Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Запиши стакан воды 250 мл",
+      "ts": "2026-11-28T13:24:36.514Z"
+    },
+    {
+      "role": "assistant",
+      "text": "Записала стакан воды 💧 За сегодня — 250 мл.",
+      "model": "fast",
+      "tools": [
+        {
+          "name": "context"
+        },
+        {
+          "name": "log_water",
+          "input": {
+            "ml": 250
+          }
+        },
+        {
+          "name": "mcp__google-health__log_hydration",
+          "input": {
+            "amount": 250,
+            "unit": "milliliter",
+            "dry_run": false,
+            "explicit_user_intent": true
+          }
+        }
+      ],
+      "ts": "2026-11-28T13:24:36.514Z"
+    }
+  ]
+}
